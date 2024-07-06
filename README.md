@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @afiadona
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning C and C++
+- 👋 Hi, I’m Dona
+- 👀 I’m interested in Weird Scientific Phenomena
+- 🌱 I’m currently learning Code Refactoring
 - 
-- 📫
 
 <!---
 afiadona/afiadona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
